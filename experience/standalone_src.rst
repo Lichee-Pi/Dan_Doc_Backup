@@ -10,7 +10,8 @@ k210的sdk在linux和windows下都可以进行开发
 
 如果是在linux系统下，可以进行以下步骤下载k210的sdk
 
-1. 使用命令从网络上下载k210的裸机开发sdk ``wget https://s3.cn-north-1.amazonaws.com.cn/dl.kendryte.com/documents/kendryte-standalone-sdk-0.3.0.zip`` 
+1. 使用命令从网络上下载k210的裸机开发sdk 
+``wget https://s3.cn-north-1.amazonaws.com.cn/dl.kendryte.com/documents/kendryte-standalone-sdk-0.3.0.zip`` 
 
 2. 解压sdk
 ``unzip kendryte-standalone-sdk-0.2.1.zip`` 
