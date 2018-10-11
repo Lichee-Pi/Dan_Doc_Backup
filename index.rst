@@ -86,9 +86,12 @@
 .. toctree::
    :maxdepth: 2
    :caption: 上手体验篇
-
+	 
+	 事前准备 <before_experience/uartCH340_src>
    裸机体验 <experience/standalone_src>
    FreeRTOS <experience/freeRTOS_src>
+   
+   
 
 .. toctree::
    :maxdepth: 2
