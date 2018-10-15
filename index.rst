@@ -37,7 +37,7 @@
 - 快速傅里叶变换加速器 (FFT Accelerater)
 
 |  
-.. figure:: http://pgeza64pd.bkt.clouddn.com/dan-core-board.jpg
+.. figure:: http://pgeza64pd.bkt.clouddn.com/dan-core-borad.jpg
   :width: 500px
   :align: center
   

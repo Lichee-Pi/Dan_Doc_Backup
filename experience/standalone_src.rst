@@ -14,10 +14,10 @@ k210的sdk在linux和windows下都可以进行开发
 ``wget https://s3.cn-north-1.amazonaws.com.cn/dl.kendryte.com/documents/kendryte-standalone-sdk-0.3.0.zip`` 
 
 2. 解压sdk
-``unzip kendryte-standalone-sdk-0.2.1.zip`` 
+``unzip kendryte-standalone-sdk-0.3.0.zip`` 
 
 3. 进入目录，目录内容如下所示
-``cd kendryte-standalone-sdk-0.2.1 && ls`` 
+``cd kendryte-standalone-sdk-0.3.0 && ls`` 
 
 :: 
 
@@ -96,7 +96,7 @@ k210的sdk在linux和windows下都可以进行开发
 烧录程序
 -------------------------------------------------
 
-如果在linux下，我们需要先下载 `编译脚本  <http://pgeza64pd.bkt.clouddn.com/isp_auto.py>`_ 
+如果在linux下，我们需要先下载 `烧录脚本  <http://pgeza64pd.bkt.clouddn.com/isp_auto.py>`_ 
 
 使用命令下载脚本
 ``wget http://pgeza64pd.bkt.clouddn.com/isp_auto.py``
