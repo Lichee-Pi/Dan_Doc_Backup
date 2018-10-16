@@ -155,7 +155,7 @@ k210的sdk在linux和windows下都可以进行开发
 
 .. admonition:: 交流与答疑
 
-    对于本章内容，如有疑问，欢迎到 `荔枝丹 | 建议与讨论区 <http://bbs.lichee.pro/t/dan>`_ 提问或分享经验。
+    对于本章内容，如有疑问，欢迎到 `荔枝丹 | 建议与讨论区 <http://bbs.lichee.pro/t/sipeed-m1>`_ 提问或分享经验。
 
 
 
